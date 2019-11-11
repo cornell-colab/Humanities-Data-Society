@@ -1,10 +1,18 @@
 # Getting Started with Twitter Data
 
-To collect tweets with [twarc](https://github.com/DocNow/twarc), we first need to 1) apply for a Twitter developer account and 2) create an application. The developer account will allow us to create an application, which will eventually get us a series of API keys and tokens---basically like passwords---which we can then use to access Twitter data.
+To collect tweets with [twarc](https://github.com/DocNow/twarc), we first need to:
 
-According to Twitter, the reason for this somewhat drawn-out application process is to: 1) "prevent abuse of the Twitter platform" 2) and "better understand and serve our developer community."
+1) apply for a Twitter developer account 
+2) create an application
 
-The following instructions will guide you through each part of the process. All together, it should take you about 30 minutes.
+The developer account will allow us to create an application, which will eventually get us a series of API keys and tokens---basically like passwords---which we can then use to access Twitter data.
+
+According to Twitter, the reason for this somewhat drawn-out application process is to:
+
+ 1) "prevent abuse of the Twitter platform"
+ 2) "better understand and serve our developer community"
+
+The following instructions will guide you through each part of the process. All together, it should take ~30 minutes.
 
 ## Apply for a Twitter Developer Account
 
@@ -29,31 +37,31 @@ The following instructions will guide you through each part of the process. All 
 
 Below are suggested responses for each question.
 
-> In your words
->In English, please describe how you plan to use Twitter data and/or APIs. For students and teachers, please include the name of the school, the name of the instructor and the course number (if available). The more detailed the response, the easier it is to review and approve.
+**In your words**
+**In English, please describe how you plan to use Twitter data and/or APIs. For students and teachers, please include the name of the school, the name of the instructor and the course number (if available). The more detailed the response, the easier it is to review and approve.**
 
 You need to explain how you will use Twitter data in at least 200 characters. You might say something like:
 
  
 "At Cornell University, we recently formed a student group called the Cultural Analytics Society, where we collect, curate, and analyze datasets related to culture and the humanities. As a member of this group, I plan to collect tweets about different subjects, to contextualize them, and to share them as tweet IDs."
 
->Are you planning to analyze Twitter data?
+**Are you planning to analyze Twitter data?**
 
 Yes. You might say something like:
 
 "As a member of the Cultural Analytics Society, I may analyze the language of tweets with computational text mining methods."
 
->Will your app use Tweet, Retweet, like, follow, or Direct Message functionality?
+**Will your app use Tweet, Retweet, like, follow, or Direct Message functionality?**
 
 No. This question is geared toward developers who will be making Twitter bots (which might retweet or like tweets programmatically).
 
->Do you plan to display Tweets or aggregate data about Twitter content outside of Twitter? 
+**Do you plan to display Tweets or aggregate data about Twitter content outside of Twitter? **
 
 Yes. You might say something like:
 
 "As a member of the Cultural Analytics Society, I plan to share tweets outside the Twitter platform only as tweet IDs."
 
->Will your product, service or analysis make Twitter content or derived information available to a government entity? In general, schools, colleges, and universities do not fall under this category.
+**Will your product, service or analysis make Twitter content or derived information available to a government entity? In general, schools, colleges, and universities do not fall under this category.**
 
 No. We will not make our Twitter available to a government entity.
 
@@ -79,25 +87,23 @@ Once you confirm your email address, you'll be taken to your developer account h
 2. Now you have to fill out another application! Don't fret. We need to create an app to collect Twitter data, but many of the questions here are geared toward other kinds of Twitter apps, and we can skip them.
 
 
-> App name (required)  
+**App name (required)**
 
 Choose a name. Again, it doesn't matter which name you choose. First name will suffice.
 
-> Application description (required) 
+**Application description (required)** 
 
 You might say something like:
 
 "This app will be used to collect, curate, and analyze datasets related to culture and the humanities."
 
-> Website URL (required)
+**Website URL (required)**
 
 You can use the URL for the Cultural Analytics Society GitHub page: https://github.com/cornell-colab/Humanities-Data-Society
 
-***You can skip Callback URLs, Terms of Service URL, Privacy Policy URL, Organization name, and Organization website URL.
+**You can skip Callback URLs, Terms of Service URL, Privacy Policy URL, Organization name, and Organization website URL.**
 
-![](/images/app-application-skip.png)
-
-> Tell us how this app will be used (required)
+**Tell us how this app will be used (required)**
 
 You might say something like: "At Cornell University, we recently formed a student group called the Cultural Analytics Society, where we collect, curate, and analyze datasets related to culture and the humanities. As a member of this group, I will use this app to collect tweets about different subjects, to contextualize them, and to share them as tweet IDs."
 
