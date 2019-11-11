@@ -55,7 +55,7 @@ Yes. You might say something like:
 
 No. This question is geared toward developers who will be making Twitter bots (which might retweet or like tweets programmatically).
 
-**Do you plan to display Tweets or aggregate data about Twitter content outside of Twitter? **
+**Do you plan to display Tweets or aggregate data about Twitter content outside of Twitter?**
 
 Yes. You might say something like:
 
