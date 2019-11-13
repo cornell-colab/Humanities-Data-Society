@@ -11,7 +11,8 @@ According to Twitter, the reason for this somewhat drawn-out application process
 
 The following instructions will guide you through each part of the process. All together, it should take ~30 minutes.
 
-## 1. Apply for a Twitter Developer Account
+
+# 1. Apply for a Twitter Developer Account
 
 
 1. First navigate to [Twitter's "Apply for access" web page](https://developer.twitter.com/en/apply-for-access.html) and select "Apply for a developer account."
@@ -64,7 +65,8 @@ No. We will not make our Twitter available to a government entity.
 ![](/images/developer-success.png)
 
 
-## 2. Create an Application
+
+# 2. Create an Application
 
 Once you confirm your email address, you'll be taken to your developer account home page, where you can now create an app. 
 
@@ -103,7 +105,7 @@ Then select "Create."
 
 Write down your consumer key, consumer secret, access token, and access token secret in a safe location. Treat these keys and tokens like you would a password. (For more information about how and why to protect your keys and tokens, see ["Securing keys and access tokens"](https://developer.twitter.com/en/docs/basics/authentication/guides/securing-keys-and-tokens).) You will need to use your consumer key, consumer secret, access token, and access token secret to access Twitter's API through twarc.
 
-## 3. Install twarc
+# 3. Install twarc
 
 If you're familiar with the command line and/or Python and you want to get ahead of the game, you can install twarc by following the instructions on the following GitHub page: [https://github.com/DocNow/twarc](https://github.com/DocNow/twarc)
 
