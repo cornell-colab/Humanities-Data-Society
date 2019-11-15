@@ -1,0 +1,14 @@
+twarc==1.7.5
+twint
+aiohttp
+aiodns
+beautifulsoup4
+cchardet
+elasticsearch
+pysocks
+pandas>=0.23.0
+aiohttp_socks
+schedule
+geopy
+emoji
+
