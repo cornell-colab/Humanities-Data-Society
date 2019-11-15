@@ -50,4 +50,8 @@ The datasets in [DocNow's Tweet ID Catalog](https://www.docnow.io/catalog/) prov
 
 Ok now we're going to practice collecting and analyzing Twitter data with Twarc! We're going to do so by using an interactive Jupyter notebook. You can access this notebook by clicking the logo above or by going to https://mybinder.org/v2/gh/melaniewalsh/Collecting-Twitter-Data/master
 
-
+## Questions to Discuss
+Which data set did you pick?
+What query did they yse?
+Why is this interesting to you?
+What kind of analysis could you do with this dataset?
