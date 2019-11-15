@@ -28,7 +28,7 @@ Read more about the filter realtime details: [https://developer.twitter.com/en/d
 
 **Search (7 days in the past)**
 
-Read more about the search details: [https://developer.twitter.com/en/docs/tweets/search/overview]()
+Read more about the search details: [https://developer.twitter.com/en/docs/tweets/search/overview/standard-operators]()
 
 
 ## How to Query the Twitter API
