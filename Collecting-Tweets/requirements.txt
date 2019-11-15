@@ -1,4 +1,4 @@
-twarc==1.7.5
+twarc
 twint
 aiohttp
 aiodns
