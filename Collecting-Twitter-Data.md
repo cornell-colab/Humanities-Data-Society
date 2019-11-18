@@ -28,14 +28,14 @@ Read more about the filter realtime details: [https://developer.twitter.com/en/d
 
 **Search (7 days in the past)**
 
-Read more about the search details: [https://developer.twitter.com/en/docs/tweets/search/overview/standard-operators](https://developer.twitter.com/en/docs/tweets/search/overview/standard-operators)
+Read more about the search details: [https://developer.twitter.com/en/docs/tweets/search/overview/standard](https://developer.twitter.com/en/docs/tweets/search/overview/standard)
 
 
 ## How to Query the Twitter API
 
 ![](/images/search-operators.png) 
 
-Read more about the search operators: [https://developer.twitter.com/en/docs/tweets/rules-and-filtering/overview/standard-operators]()
+Read more about the search operators: [https://developer.twitter.com/en/docs/tweets/rules-and-filtering/overview/standard-operators](https://developer.twitter.com/en/docs/tweets/rules-and-filtering/overview/standard-operators)
 
 ## Twitter Dataset Examples
 
